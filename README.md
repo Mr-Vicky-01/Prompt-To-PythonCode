@@ -1,4 +1,5 @@
 # Gemma-2B Fine-Tuned Python Model
+![OIP](https://github.com/Mr-Vicky-01/tamil_summarization/assets/143078285/d2e4fb7a-53d5-4e83-886f-7a8b5fc50504)
 
 ## Overview
 Gemma-2B Fine-Tuned Python Model is a deep learning model based on the Gemma-2B architecture, fine-tuned specifically for Python programming tasks. This model is designed to understand Python code and assist developers by providing suggestions, completing code snippets, or offering corrections to improve code quality and efficiency.
